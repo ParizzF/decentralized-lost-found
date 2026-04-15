@@ -77,12 +77,17 @@ CDGEEV7SJDOFAWOZJNUUE25CW4LPGLIUGT5YYMS45GFIYJSXVVFEPAOO
 (Add screenshots from Soroban Studio)
 
 Recommended screenshots:
-<img width="1892" height="749" alt="image" src="https://github.com/user-attachments/assets/577b040f-f0bc-4453-96d2-4f8a1b827be9" />
 
 * Contract deployment
+<img width="1892" height="749" alt="image" src="https://github.com/user-attachments/assets/577b040f-f0bc-4453-96d2-4f8a1b827be9" />
 * Report lost item
+  <img width="1310" height="590" alt="image" src="https://github.com/user-attachments/assets/d73e6bef-456c-419b-a863-3c06468e57f7" />
+
 * Claim item
+  <img width="1395" height="765" alt="image" src="https://github.com/user-attachments/assets/12b72e4c-db49-4096-b440-c83907db0548" />
 * Confirm return
+  <img width="1205" height="757" alt="image" src="https://github.com/user-attachments/assets/a3b64358-1b76-4139-84bb-1f48992d8525" />
+
 * Get items
 
 ---
