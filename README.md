@@ -77,6 +77,7 @@ CDGEEV7SJDOFAWOZJNUUE25CW4LPGLIUGT5YYMS45GFIYJSXVVFEPAOO
 (Add screenshots from Soroban Studio)
 
 Recommended screenshots:
+<img width="1892" height="749" alt="image" src="https://github.com/user-attachments/assets/577b040f-f0bc-4453-96d2-4f8a1b827be9" />
 
 * Contract deployment
 * Report lost item
